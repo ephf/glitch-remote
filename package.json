@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "remote": "node glitch/remote.js"
+    }
+}
